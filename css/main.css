@@ -1747,7 +1747,7 @@ header .logo a {
 	}
 	@keyframes typing {
 	from { width: 0ch; }
-	to { width: 90%; }
+	to { width: 100%; }
 }
 }
 
@@ -1880,7 +1880,7 @@ header .logo a {
 
 	
 	#intro {
-		background: #151515 url(../images/bg960.jpg) no-repeat center bottom;
+		background: #151515 url(../images/bg960.png) no-repeat center bottom;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
 		background-size: cover;
